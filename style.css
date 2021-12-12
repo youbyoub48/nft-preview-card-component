@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap');
+
+.attribution 
+{
+    font-size: 11px; text-align: center;
+}
+
+.attribution a 
+{
+    color: hsl(228, 45%, 44%); 
+}
+
+body
+{
+    background-color: hsl(217, 54%, 11%);
+    color: blanchedalmond;
+    font-size: 18px;
+    font-family: 'Outfit', sans-serif;
+}
+
+.card
+{
+    display: flex;
+    flex-direction: column;
+    background-color: hsl(216, 50%, 16%);
+    margin: 150px auto;
+    margin-bottom: 150px;
+    width: 350px;
+    height: 610px;
+    border-radius: 13px;
+}
+
+.img_card
+{
+    margin: 20px;   
+    border-radius: 10px; 
+    margin-bottom: 20px;
+}
+
+h1
+{
+    color: white;
+    font-weight: 600;
+    font-style : normal;
+    margin-left: 20px;
+    font-size: 20px;
+}
+
+p
+{
+    color: hsl(215, 51%, 70%);
+    margin-top: 5px;
+    margin-left: 20px;
+    font-weight: 300;
+}
+
+.price span
+{
+    color: hsl(178, 100%, 50%);
+    margin-left: 2px;
+}
+
+.price
+{
+    margin-left: 20px;
+}
+
+.time span
+{
+    color: hsl(215, 51%, 70%);
+}
+
+.time
+{
+    margin-right: 20px;
+}
+
+.rectangle
+{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+.trait
+{
+    border-top: 1px solid hsl(215, 32%, 27%);
+    width : 310px;
+    margin: 20px auto;
+}
+
+.author
+{
+    display: flex;
+    align-items: center;
+    color: hsl(215, 51%, 70%);
+    font-size: 16px;
+}
+
+.author img
+{
+    width: 33px;
+    height: auto;
+    margin-right: 15px;
+    margin-left: 15px;
+    border: 1px solid white;
+    border-radius: 50%;
+
+}
+
+.author em
+{
+    color: hsl(0, 0%, 100%);
+    font-style: normal;
+}
