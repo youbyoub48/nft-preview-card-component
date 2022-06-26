@@ -10,6 +10,12 @@
     color: hsl(228, 45%, 44%); 
 }
 
+a
+{
+    text-decoration: none;
+    color: white;
+}
+
 body
 {
     background-color: hsl(217, 54%, 11%);
@@ -24,7 +30,7 @@ body
     flex-direction: column;
     background-color: hsl(216, 50%, 16%);
     margin: 150px auto;
-    margin-bottom: 150px;
+    margin-bottom: 3em;
     width: 350px;
     height: 610px;
     border-radius: 13px;
@@ -39,7 +45,6 @@ body
 
 h1
 {
-    color: white;
     font-weight: 600;
     font-style : normal;
     margin-left: 20px;
@@ -108,8 +113,12 @@ p
 
 }
 
-.author em
+.author a
 {
-    color: hsl(0, 0%, 100%);
     font-style: normal;
+}
+
+a:hover
+{
+    color: hsl(178, 100%, 50%);
 }
