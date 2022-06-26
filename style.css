@@ -122,3 +122,13 @@ a:hover
 {
     color: hsl(178, 100%, 50%);
 }
+
+@media only screen and (max-width: 600px) {
+
+.card
+{
+    margin: 60px auto;
+    margin-bottom: 1em;
+}
+
+}
