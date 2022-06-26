@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/stats-preview-card-component-solution-gG1WuYXXT](https://www.frontendmentor.io/solutions/stats-preview-card-component-solution-gG1WuYXXT)
+- Solution URL: [https://www.frontendmentor.io/solutions/nftpreviewcardcomponent-with-flexbox-VO6kRgjdmn](https://www.frontendmentor.io/solutions/nftpreviewcardcomponent-with-flexbox-VO6kRgjdmn)
 - Live Site URL: [https://nft-preview-card-component-three-olive.vercel.app/](https://nft-preview-card-component-three-olive.vercel.app/)
 
 ## My process
